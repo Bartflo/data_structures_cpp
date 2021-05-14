@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/barte/Desktop/cpp/bounded_stack/bounded_stack.cpp
+iostream
+-
+bounded_stack.h
+C:/Users/barte/Desktop/cpp/bounded_stack/bounded_stack.h
+
+C:/Users/barte/Desktop/cpp/bounded_stack/bounded_stack.h
+
+C:/Users/barte/Desktop/cpp/bounded_stack/stack_test.cpp
+iostream
+-
+bounded_stack.h
+C:/Users/barte/Desktop/cpp/bounded_stack/bounded_stack.h
+

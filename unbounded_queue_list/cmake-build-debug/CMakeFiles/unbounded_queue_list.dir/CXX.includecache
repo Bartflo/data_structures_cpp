@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/barte/Desktop/cpp/unbounded_queue_list/unbounded_queue.cpp
+iostream
+-
+unbounded_queue.h
+C:/Users/barte/Desktop/cpp/unbounded_queue_list/unbounded_queue.h
+
+C:/Users/barte/Desktop/cpp/unbounded_queue_list/unbounded_queue.h
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1619031656 source:c:\users\barte\desktop\cpp\unbounded_queue\queue_test.cpp
+	<iostream>
+	"unbounded_queue.h"
+
+1618836330 c:\users\barte\desktop\cpp\unbounded_queue\unbouded_queue.h
+
+1619031486 source:c:\users\barte\desktop\cpp\unbounded_queue\unbounded_queue.cpp
+	<iostream>
+	<stdexcept>
+	"unbounded_queue.h"
+
+1618836330 c:\users\barte\desktop\cpp\unbounded_queue\unbounded_queue.h
+

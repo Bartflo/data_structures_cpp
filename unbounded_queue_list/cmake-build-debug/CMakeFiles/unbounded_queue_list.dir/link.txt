@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\unbounded_queue_list.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\unbounded_queue_list.dir/objects.a @CMakeFiles\unbounded_queue_list.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\unbounded_queue_list.dir/objects.a -Wl,--no-whole-archive -o unbounded_queue_list.exe -Wl,--out-implib,libunbounded_queue_list.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\unbounded_queue_list.dir\linklibs.rsp

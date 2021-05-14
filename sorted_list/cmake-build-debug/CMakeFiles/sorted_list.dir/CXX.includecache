@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/barte/Desktop/cpp/sorted_list/sorted_list.cpp
+iostream
+-
+sorted_list.h
+C:/Users/barte/Desktop/cpp/sorted_list/sorted_list.h
+
+C:/Users/barte/Desktop/cpp/sorted_list/sorted_list.h
+

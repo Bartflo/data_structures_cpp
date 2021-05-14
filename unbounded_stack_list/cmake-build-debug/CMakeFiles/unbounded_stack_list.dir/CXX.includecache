@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/barte/Desktop/cpp/unbounded_stack_list/unbounded_stack.cpp
+iostream
+-
+unbounded_stack.h
+C:/Users/barte/Desktop/cpp/unbounded_stack_list/unbounded_stack.h
+
+C:/Users/barte/Desktop/cpp/unbounded_stack_list/unbounded_stack.h
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1620151067 source:c:\users\barte\desktop\cpp\unbounded_stack_list\stack_test.cpp
+	<iostream>
+	"unbounded_stack.h"
+
+1620150391 c:\users\barte\desktop\cpp\unbounded_stack_list\unbounded_stack.h
+
+1620151053 source:c:\users\barte\desktop\cpp\unbounded_stack_list\unbounded_stack.cpp
+	<iostream>
+	"unbounded_stack.h"
+

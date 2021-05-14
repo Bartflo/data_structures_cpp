@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1619029713 source:c:\users\barte\desktop\cpp\bounded_stack\stack_test.cpp
+	<iostream>
+	"bounded_stack.h"
+
+1619025048 c:\users\barte\desktop\cpp\bounded_stack\bounded_stack.h
+
+1619029734 source:c:\users\barte\desktop\cpp\bounded_stack\bounded_stack.cpp
+	<iostream>
+	"bounded_stack.h"
+

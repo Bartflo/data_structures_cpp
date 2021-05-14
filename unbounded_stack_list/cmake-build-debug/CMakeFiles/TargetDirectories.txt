@@ -1,0 +1,3 @@
+C:/Users/barte/Desktop/cpp/unbounded_stack_list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/barte/Desktop/cpp/unbounded_stack_list/cmake-build-debug/CMakeFiles/unbounded_stack_list.dir
+C:/Users/barte/Desktop/cpp/unbounded_stack_list/cmake-build-debug/CMakeFiles/edit_cache.dir

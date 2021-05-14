@@ -1,0 +1,3 @@
+C:/Users/barte/Desktop/cpp/zestaw_c_11/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/barte/Desktop/cpp/zestaw_c_11/cmake-build-debug/CMakeFiles/zestaw_c_11.dir
+C:/Users/barte/Desktop/cpp/zestaw_c_11/cmake-build-debug/CMakeFiles/rebuild_cache.dir

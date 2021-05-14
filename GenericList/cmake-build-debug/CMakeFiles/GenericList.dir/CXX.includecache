@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/barte/Desktop/cpp/GenericList/List.h
+iostream
+-
+stdexcept
+-
+
+C:/Users/barte/Desktop/cpp/GenericList/list_test.cpp
+iostream
+-
+List.h
+C:/Users/barte/Desktop/cpp/GenericList/List.h
+

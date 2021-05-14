@@ -1,0 +1,3 @@
+C:/Users/barte/Desktop/cpp/sorted_list/cmake-build-debug/CMakeFiles/sorted_list.dir
+C:/Users/barte/Desktop/cpp/sorted_list/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/barte/Desktop/cpp/sorted_list/cmake-build-debug/CMakeFiles/rebuild_cache.dir

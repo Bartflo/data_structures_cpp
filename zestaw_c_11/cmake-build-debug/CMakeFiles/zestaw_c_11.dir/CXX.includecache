@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/barte/Desktop/cpp/zestaw_c_11/sznur.cpp
+iostream
+-
+sznur.h
+C:/Users/barte/Desktop/cpp/zestaw_c_11/sznur.h
+
+C:/Users/barte/Desktop/cpp/zestaw_c_11/sznur.h
+
